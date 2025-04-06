@@ -3,7 +3,7 @@
 **'Desenvolvedor Full Stack'** 
 
 Me chamo Patrick da Silva de Oliveira tenho 37 anos,sou natural do Rio de Janeiro.
-Sou estudante do Curso de Análise e Desenvolvimento de Sistemas iniciei [01/2024]com termino previsto para[06/2026] pela  Unicesumar, sou apaixonado por tecnologia.
+Sou estudante do Curso de Análise e Desenvolvimento de Sistemas com início [01/2024]com termino previsto para[06/2026] pela  Unicesumar, sou apaixonado por tecnologia.
 estou fazendo o curso na Dio para aprimorar meu conhecimento na área de tecnologia, aqui está meu perfil[https://www.dio.me/users/patrickoliveira66666] 
 tenho um perfil também no LinkedIn [https://www.linkedin.com/in/patrick-oliveira-8bb300317/] onde mostro um pouco do que sei fazer,
 e embreve estarei atualizando minhas postagens.

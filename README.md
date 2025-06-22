@@ -4,9 +4,9 @@
 
 Me chamo Patrick da Silva de Oliveira tenho 37 anos,sou natural do Rio de Janeiro.
 Sou estudante do Curso de Análise e Desenvolvimento de Sistemas com início [01/2024]com termino previsto para[06/2026] pela  Unicesumar, sou apaixonado por tecnologia.
-estou fazendo o curso na Dio para aprimorar meu conhecimento na área de tecnologia, aqui está meu perfil[https://www.dio.me/users/patrickoliveira66666] 
-tenho um perfil também no LinkedIn [https://www.linkedin.com/in/patrick-oliveira-8bb300317/] onde mostro um pouco do que sei fazer,
-e embreve estarei atualizando minhas postagens.
+Estou fazendo o curso na Dio para aprimorar meu conhecimento na área de tecnologia, aqui está meu perfil[https://www.dio.me/users/patrickoliveira66666] 
+tenho um perfil também no LinkedIn [https://www.linkedin.com/in/patrick-oliveira-8bb300317/] onde demonstro um pouco do que sei fazer,
+e em breve estarei atualizando minhas postagens.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/patrick-oliveira-8bb300317">
@@ -100,16 +100,16 @@ e embreve estarei atualizando minhas postagens.
     />
 <img   
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="PYTHON"
+    title="PYTHON"
     width="30px"
     style="padding-right:12px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
     />
 <img   
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="POETRY"
+    title="POETRY"
     width="30px"
     style="padding-right:12px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg"
